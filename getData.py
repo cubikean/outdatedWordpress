@@ -1,6 +1,7 @@
 import requests
 import json
 import time
+import os
 
 # Charger la liste des SIREN
 with open('siren_only.json', 'r') as file:
@@ -15,8 +16,31 @@ headers = {
 # Dictionnaire pour stocker les résultats
 results = {}
 
+# Vérifier si le fichier company_results.json existe et le charger
+if os.path.exists('company_results.json'):
+    with open('company_results.json', 'r', encoding='utf-8') as f:
+        results = json.load(f)
+    print(f"Chargement des {len(results)} résultats existants...")
+
+# Trouver l'index du dernier SIREN traité
+last_siren = "803082593"
+if last_siren:
+    try:
+        start_index = siren_list.index(last_siren)
+        print(f"Reprise à partir du SIREN {last_siren} (index {start_index})")
+    except ValueError:
+        print(f"Le SIREN {last_siren} n'a pas été trouvé dans la liste. Démarrage depuis le début.")
+        start_index = 0
+else:
+    start_index = 0
+
 # Traiter les SIREN avec un délai d'une seconde entre chaque requête
-for siren in siren_list:
+for siren in siren_list[start_index:]:
+    # Vérifier si le SIREN a déjà été traité
+    if siren in results:
+        print(f"SIREN {siren} déjà traité, passage au suivant...")
+        continue
+        
     url = f"https://api.insee.fr/api-sirene/3.11/siren/{siren}"
     
     try:
