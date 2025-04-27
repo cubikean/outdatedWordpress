@@ -6,13 +6,6 @@
     "needs_update": false,
     "emails": []
   },
-  "532392594": {
-    "name": "ESSERE",
-    "website": "https://essereholdings.com/updates/",
-    "wordpress_version": "6.8",
-    "needs_update": false,
-    "emails": []
-  },
   "423621317": {
     "name": "E G BAT MARTINAUD",
     "website": "https://maconnerie-echillais.fr/",
@@ -33,9 +26,9 @@
     "wordpress_version": "6.8",
     "needs_update": false,
     "emails": [
-      "l.lucazeau@royanatlantique.fr",
       "l.brisson-goulvant@royanatlantique.fr",
-      "c.lebolloch@royanatlantique.fr"
+      "c.lebolloch@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr"
     ]
   },
   "407985555": {
@@ -86,10 +79,10 @@
     "needs_update": false,
     "emails": [
       "devers-labels-edf@2x-250.png",
-      "devers@devers.fr",
       "devers-labels-cefri@2x-251.png",
       "devers-labels-qs@2x-248.png",
-      "devers-labels-mase@2x-249.png"
+      "devers-labels-mase@2x-249.png",
+      "devers@devers.fr"
     ]
   },
   "211702840": {
@@ -153,6 +146,667 @@
   "881386775": {
     "name": "OMBRIERES NA",
     "website": "https://solutions-ombrieres.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "835382334": {
+    "name": "ASSOCIATION FAMILLES ET SENS",
+    "website": "https://www.famillesetsens.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "519167175": {
+    "name": "NAELA",
+    "website": "https://naelaboutique.com/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "exemple@exemple.com"
+    ]
+  },
+  "831758800": {
+    "name": "ARKOLIA INVEST 45",
+    "website": "https://arkolia.com/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "529042632": {
+    "name": "BALINEA",
+    "website": "https://www.balineae.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "413291535": {
+    "name": "LES BOUTIQUES DES ST JEAN",
+    "website": "https://www.saintjeandeluz.boutique/",
+    "wordpress_version": "6.3.5",
+    "needs_update": true,
+    "emails": []
+  },
+  "532576121": {
+    "name": "KAJU",
+    "website": "https://kaju-biscarrosse.fr/",
+    "wordpress_version": "6.7.2",
+    "needs_update": true,
+    "emails": []
+  },
+  "802449231": {
+    "name": "SARL LE CAPRI",
+    "website": "https://www.group-capri.com/",
+    "wordpress_version": "6.2.6",
+    "needs_update": true,
+    "emails": [
+      "info@group-capri.com"
+    ]
+  },
+  "480984863": {
+    "name": "AGENCE CAST FIGURATION",
+    "website": "https://castprod.com/",
+    "wordpress_version": "6.4.5",
+    "needs_update": true,
+    "emails": []
+  },
+  "890351679": {
+    "name": "MARENNES DE FEUSSE",
+    "website": "https://chateaudefeusse.com/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "contact@chateaudefeusse.com",
+      "baptiste.a@apollostudio.fr"
+    ]
+  },
+  "347972887": {
+    "name": "SCI HABITEL",
+    "website": "https://www.annonces-legales.fr/",
+    "wordpress_version": "6.7.2",
+    "needs_update": true,
+    "emails": []
+  },
+  "912234853": {
+    "name": "PLUME & PIXEL",
+    "website": "https://plumetpixel.com/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "plumeetpixel28@gmail.com"
+    ]
+  },
+  "930353941": {
+    "name": "SELLERIE BOISSON",
+    "website": "https://atelier-sellerie-couture.com/",
+    "wordpress_version": "5.5.15",
+    "needs_update": true,
+    "emails": [
+      "bernard.boisson.sellerie@gmail.com"
+    ]
+  },
+  "510872443": {
+    "name": "ALTITUDE RECRUTEMENT",
+    "website": "https://www.altitudeinfra.fr/recrutement/",
+    "wordpress_version": "6.0.9",
+    "needs_update": true,
+    "emails": []
+  },
+  "982069148": {
+    "name": "DU SOL AU PLAFOND",
+    "website": "https://www.dusolauplafond.fr/",
+    "wordpress_version": "4.9.26",
+    "needs_update": true,
+    "emails": []
+  },
+  "522825280": {
+    "name": "LA GAUFRIERE",
+    "website": "https://www.jura-tourism.com/restaurant/la-gaufriere/",
+    "wordpress_version": "5.6.14",
+    "needs_update": true,
+    "emails": []
+  },
+  "751195595": {
+    "name": "HOLEOS",
+    "website": "https://domaineholeos.com/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "marina.arsac@gmail.com"
+    ]
+  },
+  "493046528": {
+    "name": "ENERGY 17",
+    "website": "https://alliance-energies-17.fr/installateur-panneau-solaire-charente/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "allianceenergies17@gmail.com"
+    ]
+  },
+  "211701347": {
+    "name": "COMMUNE DE CRAZANNES",
+    "website": "http://crazannes.fr/",
+    "wordpress_version": "6.6.2",
+    "needs_update": true,
+    "emails": []
+  },
+  "781343678": {
+    "name": "TREMA",
+    "website": "https://www.trema-asso.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "811689470": {
+    "name": "BEMO 14",
+    "website": "https://bemo.com/fr",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "903125953": {
+    "name": "VDM CREATION",
+    "website": "https://vdm-creations.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "eric.meijden@gmail.com"
+    ]
+  },
+  "911786275": {
+    "name": "EVIDENCES",
+    "website": "https://www.evidencesmobiliers.fr/",
+    "wordpress_version": "6.4.5",
+    "needs_update": true,
+    "emails": [
+      "contact@evimob.fr"
+    ]
+  },
+  "827585951": {
+    "name": "B'CRAFT",
+    "website": "https://www.bcraftboats.com/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "879324929": {
+    "name": "INDIVISION DE LA PRADE",
+    "website": "https://www.sancy.com/fr/fiche/hebergement-locatif/villa-la-prade-haute-n5-la-bourboule_TFO4609782/",
+    "wordpress_version": "5.9.2",
+    "needs_update": true,
+    "emails": [
+      "s.tocco@numericable.fr"
+    ]
+  },
+  "910575935": {
+    "name": "ED86",
+    "website": "https://ed86.fr/site-fait-peau-neuve/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "contact@ed86.fr"
+    ]
+  },
+  "493928469": {
+    "name": "COMITE DE QUARTIER SAINT MAURICE",
+    "website": "https://comitesaintmaurice17.fr/",
+    "wordpress_version": "6.7.2",
+    "needs_update": true,
+    "emails": []
+  },
+  "834026221": {
+    "name": "CHIMIPRO",
+    "website": "https://www.chimipro.ma/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "a.commercial@chimipro.com",
+      "contact@chimipro.com"
+    ]
+  },
+  "842161838": {
+    "name": "LGD",
+    "website": "https://lgd.com.tn/magasins/?srsltid=AfmBOoqJ209fZ1GnphZKOYGfc-PMI_kNHjNoMYkaiuM8fXJeqGafR51G",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "contact@lgd.com.tn"
+    ]
+  },
+  "889198594": {
+    "name": "BR-LJDM",
+    "website": "https://www.artisansadomicile.fr/br-ljdm/",
+    "wordpress_version": "6.1.7",
+    "needs_update": true,
+    "emails": [
+      "contact086@artisansadomicile.fr"
+    ]
+  },
+  "448550814": {
+    "name": "ASSIST CONSEIL DEVELOP INTERNAT",
+    "website": "https://www.univ-larochelle.fr/orientation-et-reussite/accompagnement-a-la-reussite/un-accompagnement-individualise/les-dispositifs-daide-a-la-reussite/",
+    "wordpress_version": "6.7.2",
+    "needs_update": true,
+    "emails": [
+      "tutorat@univ-lr.fr"
+    ]
+  },
+  "497587972": {
+    "name": "LEMASSON",
+    "website": "https://lemasson.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "favicon@2x-1-100x100.png",
+      "logo-inox@2x.png",
+      "favicon@2x-1-300x300.png",
+      "logo-inox@2x-283x300.png",
+      "logo-inox@2x-600x636.png"
+    ]
+  },
+  "393407572": {
+    "name": "CREACOM",
+    "website": "https://creacom-communication.fr/",
+    "wordpress_version": "6.7.2",
+    "needs_update": true,
+    "emails": []
+  },
+  "889451738": {
+    "name": "TERRE D'EVEILS",
+    "website": "https://terredeveils.fr/",
+    "wordpress_version": "6.5.5",
+    "needs_update": true,
+    "emails": []
+  },
+  "934198219": {
+    "name": "VILLA BORD DE MER",
+    "website": "https://www.villaborddemer.com/",
+    "wordpress_version": "5.5.11",
+    "needs_update": true,
+    "emails": [
+      "lavillaborddemer@gmail.com"
+    ]
+  },
+  "901935189": {
+    "name": "FAMILY BRET",
+    "website": "https://www.bretmichaels.com/tag/family/",
+    "wordpress_version": "6.7.2",
+    "needs_update": true,
+    "emails": []
+  },
+  "533998753": {
+    "name": "YACHT CLUB CLASSIQUE",
+    "website": "https://www.yachtclubclassique.com/",
+    "wordpress_version": "4.9.7",
+    "needs_update": true,
+    "emails": []
+  },
+  "828274902": {
+    "name": "THALIA COMMUNICATION",
+    "website": "https://www.thaliagency.com/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "contact@thaliagency.com"
+    ]
+  },
+  "828363549": {
+    "name": "LES POTES A ROGER",
+    "website": "https://biscottes-roger.fr/categorie_produits/toute-la-boutique/?srsltid=AfmBOopfEvPGxzb5zl8E0LhXhDaO6brMeGJvGlwAr3zsegNBopCflSQk",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "contact@biscottes-roger.com"
+    ]
+  },
+  "910098581": {
+    "name": "OKIT COMMUNICATION",
+    "website": "https://okit-communication.com/",
+    "wordpress_version": "6.7.2",
+    "needs_update": true,
+    "emails": []
+  },
+  "539543975": {
+    "name": "FREESURF SHOP",
+    "website": "https://ecole-de-surf-freesurf.com/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "contact@ecole-de-surf-freesurf.com",
+      "freesurfshop@hotmail.fr"
+    ]
+  },
+  "510938202": {
+    "name": "GWEN",
+    "website": "https://www.gwenstefani.com/",
+    "wordpress_version": "6.6.2",
+    "needs_update": true,
+    "emails": [
+      "info@umusic.com"
+    ]
+  },
+  "891833477": {
+    "name": "LORIT",
+    "website": "https://www.fclorient.bzh/",
+    "wordpress_version": "6.2.2",
+    "needs_update": true,
+    "emails": []
+  },
+  "920668506": {
+    "name": "ARKOLIA INVEST 118",
+    "website": "https://arkolia.com/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "381032846": {
+    "name": "PERRAUD",
+    "website": "https://groupeperraud.com/",
+    "wordpress_version": "6.7.2",
+    "needs_update": true,
+    "emails": []
+  },
+  "420573461": {
+    "name": "PHOENIX",
+    "website": "https://wearephoenix.com/",
+    "wordpress_version": "6.4.3",
+    "needs_update": true,
+    "emails": []
+  },
+  "831122411": {
+    "name": "LES DELICES DE YAYA",
+    "website": "https://lesdelicesdeyaya.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "lesdelicesdeyaya@gmail.com"
+    ]
+  },
+  "437598782": {
+    "name": "SERGIES",
+    "website": "https://www.soregies.fr/",
+    "wordpress_version": "6.2.2",
+    "needs_update": true,
+    "emails": [
+      "contact@soregies.fr"
+    ]
+  },
+  "451394530": {
+    "name": "GROUPE WEB-PROSPECTIVES COMMUNICATION",
+    "website": "https://jvprospectives.com/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "887728699": {
+    "name": "J.D.B. GROUPE",
+    "website": "https://www.jbdgroupe.com/",
+    "wordpress_version": "6.7.2",
+    "needs_update": true,
+    "emails": []
+  },
+  "489991539": {
+    "name": "LI-GE",
+    "website": "https://montre-lige.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "311350169": {
+    "name": "SARL LARNAUD",
+    "website": "https://larnaud.fr/",
+    "wordpress_version": "6.6.1",
+    "needs_update": true,
+    "emails": [
+      "mairie.larnaud@wanadoo.fr",
+      "alain-abrecht@bbox.fr",
+      "jean.dupont@gmail.com"
+    ]
+  },
+  "433188950": {
+    "name": "PEPITA",
+    "website": "https://chezpepita.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "921377503": {
+    "name": "FETE DU BRUIT",
+    "website": "https://stnolff.festival-fetedubruit.com/",
+    "wordpress_version": "6.7.2",
+    "needs_update": true,
+    "emails": [
+      "rev@-1-150x150.png",
+      "rev@-1-65x65.png",
+      "rev@-1.png",
+      "rev@-1-281x281.png"
+    ]
+  },
+  "513073080": {
+    "name": "REDEN INVESTISSEMENTS",
+    "website": "https://reden.solar/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "491209649": {
+    "name": "RIVIERRE",
+    "website": "https://musiquederiviere.com/",
+    "wordpress_version": "6.7.2",
+    "needs_update": true,
+    "emails": [
+      "contact@musiquederiviere.com"
+    ]
+  },
+  "942508631": {
+    "name": "LES P'TITS DROLES",
+    "website": "https://nosptitsdroles.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "448234609": {
+    "name": "LE MOULIN DES SOURCES",
+    "website": "https://www.le-moulin-des-sources.com/",
+    "wordpress_version": "4.3.34",
+    "needs_update": true,
+    "emails": []
+  },
+  "830479580": {
+    "name": "COCOTHIERS",
+    "website": "https://cocotier.co.za/",
+    "wordpress_version": "6.2.6",
+    "needs_update": true,
+    "emails": [
+      "hello@cocotier.co.za"
+    ]
+  },
+  "790001051": {
+    "name": "COMITE ROCHELAIS DE L'ASSOCIATION D'AMITIE FRANCO-VIETNAMIENNE",
+    "website": "https://www.aafv.org/category/comites-locaux/le-comite-rochelais/",
+    "wordpress_version": "6.1.7",
+    "needs_update": true,
+    "emails": []
+  },
+  "801687500": {
+    "name": "CLUB FROMENTIN",
+    "website": "https://anciens-fromentin-la-rochelle.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "890123474": {
+    "name": "SCIA OASIS DE TISSERAND STE SOULLE",
+    "website": "https://oasisdestisserands.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "mhpierret@gmail.com",
+      "oasisdestisserands@gmail.com",
+      "jacques@martin.com"
+    ]
+  },
+  "489455956": {
+    "name": "A.R.S. INTERVENTIONS",
+    "website": "https://www.ars-interventions.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "425038171": {
+    "name": "PARTNER & PARTNERS",
+    "website": "https://partnerandpartners.com/",
+    "wordpress_version": "6.7.2",
+    "needs_update": true,
+    "emails": []
+  },
+  "328988001": {
+    "name": "MIROGLIO FRANCE",
+    "website": "https://www.mirogliogroup.com/en/",
+    "wordpress_version": "5.8.10",
+    "needs_update": true,
+    "emails": []
+  },
+  "328860044": {
+    "name": "SOC CHARENTAISE ETANCHEITE ISOLATION",
+    "website": "https://archenergie.fr/",
+    "wordpress_version": "6.7.2",
+    "needs_update": true,
+    "emails": []
+  },
+  "261700504": {
+    "name": "CENTRE COMMUNAL D'ACTION SOCIALE",
+    "website": "https://ccas-larochelle.fr/",
+    "wordpress_version": "6.0.9",
+    "needs_update": true,
+    "emails": []
+  },
+  "302001797": {
+    "name": "RIDORET MENUISERIE",
+    "website": "https://www.groupe-ridoret.com/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "389538125": {
+    "name": "SOCIETE TRAVAUX PUBLICS BATIMENTS",
+    "website": "https://www.fntp.fr/",
+    "wordpress_version": "6.5.5",
+    "needs_update": true,
+    "emails": [
+      "ngobibinbej@fntp.fr",
+      "etincel-vignette@2x.jpg"
+    ]
+  },
+  "343209714": {
+    "name": "TOURISME HOTELIER CHARENTAIS",
+    "website": "https://charentestourisme.com/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "814392452": {
+    "name": "A VELO SANS AGE",
+    "website": "https://avelosansage.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "805316866": {
+    "name": "AM2C",
+    "website": "https://www.am2c.fr/",
+    "wordpress_version": "5.9.10",
+    "needs_update": true,
+    "emails": [
+      "contact@am2c.fr"
+    ]
+  },
+  "848893871": {
+    "name": "LNAMEL",
+    "website": "https://lnamel.com/",
+    "wordpress_version": "5.9.10",
+    "needs_update": true,
+    "emails": []
+  },
+  "424177376": {
+    "name": "TRANSPORTS FOULADOUX",
+    "website": "https://www.tgl-fouladoux.fr/",
+    "wordpress_version": "5.8.10",
+    "needs_update": true,
+    "emails": [
+      "contact@transports-tgl.fr",
+      "francois@fouladoux.fr"
+    ]
+  },
+  "538680232": {
+    "name": "PHARM NATURE MICRONUTRITION",
+    "website": "https://kersiens.fr/",
+    "wordpress_version": "6.7.2",
+    "needs_update": true,
+    "emails": []
+  },
+  "752576272": {
+    "name": "LE JOYEUX BAZ'ART",
+    "website": "https://www.premierspas.fr/joyeux-baz-arts-29-et-30-novembre-2024/",
+    "wordpress_version": "6.2.6",
+    "needs_update": true,
+    "emails": []
+  },
+  "479223471": {
+    "name": "FUN'AIR",
+    "website": "https://www.funair.com/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "211702139": {
+    "name": "COMMUNE DE LOZAY",
+    "website": "https://www.lozay.fr/",
+    "wordpress_version": "5.7.12",
+    "needs_update": true,
+    "emails": [
+      "mairie@lozay.fr"
+    ]
+  },
+  "800965873": {
+    "name": "COFFEE ANGOULINS",
+    "website": "https://www.columbuscafe.com/boutique/angoulins/",
+    "wordpress_version": "6.7.2",
+    "needs_update": true,
+    "emails": []
+  },
+  "532094596": {
+    "name": "SARL LIBERTY",
+    "website": "https://www.liberty.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "434650131": {
+    "name": "ATLANTIQUE SURELEVATIONS",
+    "website": "https://www.andre-btp.com/nos-realisations/page/4/?category=renovation-en-site-occupe,multiples-metiers,construction-et-surelevation-bois,entreprise-generale,renovation-en-site-occupe?sector=logements&zone=",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "811683416": {
+    "name": "INDIVISION BAFFET DENIS ET JEAN-LUC",
+    "website": "https://www.royanatlantique.fr/locations-vacances/baffet-denis-et-jean-luc-royan/",
+    "wordpress_version": "6.6.2",
+    "needs_update": true,
+    "emails": [
+      "l.brisson-goulvant@royanatlantique.fr",
+      "l.lucazeau@royanatlantique.fr",
+      "acdeb921e9754ffdad4044eebc6b47a6@sentry.iris-interactive.fr",
+      "c.lebolloch@royanatlantique.fr",
+      "denis.baffet@wanadoo.fr",
+      "no-reply@royanatlantique.fr"
+    ]
+  },
+  "521414375": {
+    "name": "HTA",
+    "website": "https://www.sfhta.eu/",
     "wordpress_version": "6.8",
     "needs_update": false,
     "emails": []
