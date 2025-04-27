@@ -1,0 +1,160 @@
+{
+  "326354388": {
+    "name": "ROCHEFORT CORDERIE",
+    "website": "https://www.corderie-royale.com/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "532392594": {
+    "name": "ESSERE",
+    "website": "https://essereholdings.com/updates/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "423621317": {
+    "name": "E G BAT MARTINAUD",
+    "website": "https://maconnerie-echillais.fr/",
+    "wordpress_version": "6.2.6",
+    "needs_update": true,
+    "emails": []
+  },
+  "902713205": {
+    "name": "CAPSO",
+    "website": "https://www.ca-pso.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "908495179": {
+    "name": "EL SOL COMPANY",
+    "website": "https://www.sudcharentetourisme.fr/fiche-sit/el-sol-beachwear-5770234/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "l.lucazeau@royanatlantique.fr",
+      "l.brisson-goulvant@royanatlantique.fr",
+      "c.lebolloch@royanatlantique.fr"
+    ]
+  },
+  "407985555": {
+    "name": "OLERON M2 C MULTIMEDIA CONCEPT",
+    "website": "https://www.oleron-location.com/listings/location-maison-ile-oleron/",
+    "wordpress_version": "6.4.5",
+    "needs_update": true,
+    "emails": [
+      "domval91@gmail.com"
+    ]
+  },
+  "379685852": {
+    "name": "SERVICE MAINTENANCE OUEST",
+    "website": "https://sud-ouest-maintenance.fr/",
+    "wordpress_version": "6.0.9",
+    "needs_update": true,
+    "emails": [
+      "sud-ouest.maintenance@orange.fr"
+    ]
+  },
+  "398303818": {
+    "name": "LA HUNE",
+    "website": "https://www.lahune.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "818975294": {
+    "name": "OP SPORT CONCEPT",
+    "website": "https://www.opsportconcept.com/",
+    "wordpress_version": "4.9.3",
+    "needs_update": true,
+    "emails": []
+  },
+  "499195147": {
+    "name": "LA LIGUE ROCHELAISE DE POKER",
+    "website": "https://www.liguerochelaisedepoker.com/",
+    "wordpress_version": "6.2.6",
+    "needs_update": true,
+    "emails": [
+      "liguerochelaise2poker@gmail.com"
+    ]
+  },
+  "421105164": {
+    "name": "DEVERS",
+    "website": "https://www.devers.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "devers-labels-edf@2x-250.png",
+      "devers@devers.fr",
+      "devers-labels-cefri@2x-251.png",
+      "devers-labels-qs@2x-248.png",
+      "devers-labels-mase@2x-249.png"
+    ]
+  },
+  "211702840": {
+    "name": "COMMUNE DE PONT L ABBE D ARNOULT",
+    "website": "https://www.ville-pont-labbe-darnoult.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "333035541": {
+    "name": "BAMBINS D AUNIS",
+    "website": "https://bambinsdaunis.fr/",
+    "wordpress_version": "6.3.1",
+    "needs_update": true,
+    "emails": []
+  },
+  "913445292": {
+    "name": "SUCCESS LOC",
+    "website": "https://www.successlocks.fr/reserver/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": [
+      "example@mail.com"
+    ]
+  },
+  "830253753": {
+    "name": "STUDIO LESCURE",
+    "website": "https://alexandrelescure.com/expositions/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "803825421": {
+    "name": "ASS DES BOULANGERS SAINTAIS",
+    "website": "https://bpa.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "933433658": {
+    "name": "CASA ST CLAUDE",
+    "website": "https://www.saint-claude.fr/",
+    "wordpress_version": "6.7.2",
+    "needs_update": true,
+    "emails": []
+  },
+  "481040616": {
+    "name": "SCI ROCHEROCEAN",
+    "website": "https://www.rocherocean.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  },
+  "794595132": {
+    "name": "LE BOUCHE A OREILLE",
+    "website": "https://www.le-bouche-a-oreille.com/",
+    "wordpress_version": "5.9.10",
+    "needs_update": true,
+    "emails": []
+  },
+  "881386775": {
+    "name": "OMBRIERES NA",
+    "website": "https://solutions-ombrieres.fr/",
+    "wordpress_version": "6.8",
+    "needs_update": false,
+    "emails": []
+  }
+}
